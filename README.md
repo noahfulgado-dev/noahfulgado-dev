@@ -18,10 +18,9 @@ I'm a passionate developer learning to build amazing web experiences. Currently 
 
 ## 🚀 Projects I'm Working On
 
-### 🌐 [ZenWeb](https://github.com/noahfulgado-dev/ZenWeb)
-The official website for **ZensMP** Minecraft server.
+### 🌐 ZenWeb
+The official website for **ZenSMP** Minecraft server.
 - Built with Django, Tailwind CSS, and daisyUI
-- Features a team showcase section
 - Learning full-stack development with Python
 
 ---
@@ -35,8 +34,4 @@ The official website for **ZensMP** Minecraft server.
 
 ## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noahfulgado-dev)
-
----
-
-> ⚡ **Fun Fact:** I'm building my first full-stack website with Django and Tailwind!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noahfulgado-dev
