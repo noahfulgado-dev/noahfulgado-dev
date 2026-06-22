@@ -23,7 +23,7 @@ I'm a passionate developer learning to build amazing web experiences. Currently 
 
 ---
 
-## 🚀 Projects I'm Working On
+## 🚀 Project/s I'm Working On
 
 ### 🌐 ZenWeb
 The official website for **ZenSMP** Minecraft server.
