@@ -25,7 +25,7 @@ I'm a passionate developer learning to build amazing web experiences. Currently 
 
 ## 🚀 Project/s I'm Working On
 
-### 🌐 [ZenSMP.space](https://zensmp.space) <h6>by [rkenbperez](https://github.com/rkenbperez) & [noahfulgado-dev](https://github.com/noahfulgado-dev)</h6>
+### 🌐 [ZenSMP.space](https://github.com/rkenbperez/zenweb) <h6>by [rkenbperez](https://github.com/rkenbperez) & [noahfulgado-dev](https://github.com/noahfulgado-dev)</h6>
 The official website for **ZenSMP** Minecraft server.
 - Built with Django, Tailwind CSS, and daisyUI
 - Learning full-stack development with Python
