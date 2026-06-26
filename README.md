@@ -34,7 +34,7 @@ The official website for **ZenSMP** Minecraft server.
 
 ## 📊 GitHub Stats
 
-[![Noah Fulgado's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahfulgado-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Noah Fulgado's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahfulgado-dev&commits_year=2020)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahfulgado-dev&layout=compact&theme=dark)
 
 ---
