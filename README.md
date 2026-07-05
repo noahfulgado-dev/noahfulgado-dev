@@ -25,6 +25,11 @@ I'm a passionate developer learning to build amazing web experiences. Currently 
 
 ## 🚀 Project/s I'm Working On
 
+### 🌐 [SimpleForum]([https://github.com/](https://github.com/noahfulgado-dev/SimpleForum)) <h6>by [noahfulgado-dev](https://github.com/noahfulgado-dev) [rkenbperez](https://github.com/rkenbperez)</h6>
+A lightweight, minimalist forum built with Django and React.
+- Built with Django, Tailwind CSS + Shadcn/UI, and React
+- Collaborative learning with [rkenbperez](https://github.com/rkenbperez). [rkenbperez](https://github.com/rkenbperez)</h6> on Backend and [noahfulgado-dev](https://github.com/noahfulgado-dev) on Frontend.
+
 ### 🌐 [ZenSMP.space](https://github.com/rkenbperez/zenweb) <h6>by [rkenbperez](https://github.com/rkenbperez) & [noahfulgado-dev](https://github.com/noahfulgado-dev)</h6>
 The official website for **ZenSMP** Minecraft server.
 - Built with Django, Tailwind CSS, and daisyUI
