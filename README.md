@@ -40,7 +40,6 @@ The official website for **ZenSMP** Minecraft server.
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.shion.dev/api?username=noahfulgado-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahfulgado-dev&layout=compact&theme=dark)
 
 ---
 
